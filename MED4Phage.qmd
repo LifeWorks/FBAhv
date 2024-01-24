@@ -1,0 +1,9 @@
+---
+title: "Metabolic Model of MED4-phage interactions"
+format: html
+---
+
+
+```{python}
+import analyse_model as am
+```

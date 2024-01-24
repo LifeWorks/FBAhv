@@ -1,0 +1,31 @@
+# metabolites ids for the macrophage model
+key in the program, id in the model, human-readable name, CHEBI id
+atp, ATP[c], ATP, ChEBI 15422
+ctp, CTP[c], CTP, ChEBI 17677
+gtp, GTP[c], GTP, ChEBI 15996
+utp, UTP[c], UTP, ChEBI 15713
+A, L_Alanine[c], Alaline, ChEBI 16977
+R, L_Arginine[c], Arginine, ChEBI 16467
+N, L_Asparagine[c], Asparagine, ChEBI 17196
+D, L_Aspartate[c], Aspartate, ChEBI 17053
+C, L_Cysteine[c], Cysteine, ChEBI 17561
+Q, L_Glutamine[c], Glutamine, ChEBI 18050
+E, L_Glutamate[c], Glutamate, ChEBI 16015
+G, Glycine[c], Glycine, ChEBI 15428
+H, L_Histidine[c], Histidine, ChEBI 15971
+I, L_Isoleucine[c], Isoleucine, ChEBI 17191
+L, L_Leucine[c], Leucine, ChEBI 15603
+K, L_Lysine[c], Lysine, ChEBI 18019
+M, L_Methionine[c], Methionine, ChEBI 16643
+F, L_Phenylalanine[c], Phenylalanine, ChEBI 17295
+P, L_Proline[c], Proline, ChEBI 17203
+S, L_Serine[c], Serine, ChEBI 17115
+T, L_Threonine[c], Threonine, ChEBI 16857
+W, L_Tryptophan[c], Tryptophan, ChEBI 16828
+Y, L_Tyrosine[c], Tyrosine, ChEBI 17895
+V, L_Valine[c], Valine, ChEBI 16414
+h2o, H2O[c], H2O,
+adp, ADP[c], ADP,
+Pi, Orthophosphate[c], Phosphate,
+h, H[c], Hydrogen [Proton],
+PPi, Diphosphate[c], Pyrophosphate,
