@@ -71,8 +71,8 @@ miscDict = {
 # Avogadro's Number
 N_A         = 6.0221409e+23
 # ATP requirement coefficients
-# source: Queka, Dietmaira, Hanschob, Mart�neza, Borthb, Nielsen
-# Journal of Biotechnology 184 (2014) 172�178
+# source: Queka, Dietmaira, Hanschob, Martineza, Borthb, Nielsen
+# Journal of Biotechnology 184 (2014) 172-178
 k_atp_protein = 4.3
 k_atp_dna = 1.4
 k_atp_rna = 0.4
